@@ -67,10 +67,22 @@
 
 ### 📊 GitHub Stats
 
+
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LowMathzzz&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="LowMath GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LowMathzzz&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="LowMath most-used languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=LowMathzzz&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true&title_color=7DF9FF&icon_color=FF8A65&text_color=C9D1D9"
+    height="175"
+    alt="LowMath GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LowMathzzz&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&theme=tokyonight&hide_border=true&title_color=7DF9FF&text_color=C9D1D9"
+    height="175"
+    alt="LowMath Most Used Languages"
+  />
 </p>
+
 
 ### 📈 Contribution Activity
 
