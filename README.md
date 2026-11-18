@@ -95,6 +95,3 @@
   <sub>Built with curiosity, aurora light and a pixelated Neocaridina. 🦐</sub>
 </p>
 
-<p align="center">
-  <sub>Banner based on <a href="https://github.com/beydemirfurkan/awesome-github-profile/tree/main/templates/09-avant-garde/aurora-veil">Aurora Veil</a>.</sub>
-</p>
