@@ -73,12 +73,6 @@
     height="175"
     alt="LowMath GitHub Stats"
   />
-  <br>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LowMathzzz&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&theme=tokyonight&hide_border=true&title_color=7DF9FF&text_color=C9D1D9"
-    height="175"
-    alt="LowMath Most Used Languages"
-  />
 </p>
 
 
